@@ -1,5 +1,5 @@
 {
-  "name": "@wgg/next-auth-package",
+  "name": "next-wgg-auth-package",
   "version": "0.1.0",
   "private": false,
   "description": "Package d'authentification utilisant NextAuth avec MongoDB pour Next.js",
